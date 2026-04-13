@@ -2,4 +2,5 @@ version: STSv1
 mode: testing
 mx: mx4.bowles.org
 mx: mx5.bowles.org
+mx: mx6.bowles.org
 max_age: 604800
